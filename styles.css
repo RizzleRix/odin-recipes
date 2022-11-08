@@ -1,6 +1,33 @@
 
-.button {
-    background-color: orange;
+.header-color {
+    background-color: blue;
+    color: white;
+}
+
+button {
+
+    background-color: blue;
+    color: white;
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 12px;
+
+}
+
+a {
+    color: white;
+}
+
+a:hover {
     color: black;
 }
 
+.no-bullets {
+
+    list-style-type: none;
+}
+
+.circle-list {
+
+    list-style-type: circle;
+}
